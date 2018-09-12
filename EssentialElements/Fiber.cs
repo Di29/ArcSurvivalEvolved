@@ -1,0 +1,17 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace EssentialElements
+{
+    public class Fiber
+    {
+        public string Name { get; set; }
+
+        //public Fiber[] fibers = 
+
+
+    }
+}
